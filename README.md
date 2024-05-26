@@ -1,5 +1,7 @@
-KimMilyonerOlmakIster-Oyun
+KimMilyonerOlmakIster-Oyun 
+
 Beni Takip Et Bunun Gibi veya Farklı Projeler için
+
 https://youtube.com/@kadiratmaca1?sub_confirmation=1
 EĞER İSTERSENİZ SİZDE SORULAR HAZIRLAYABİLİRSİNİZ 
 
