@@ -1,11 +1,11 @@
-KimMilyonerOlmakIster-Oyun 
+# KimMilyonerOlmakIster-Oyun 
 
 Beni Takip Et Bunun Gibi veya Farklı Projeler için
 
 https://youtube.com/@kadiratmaca1?sub_confirmation=1
 EĞER İSTERSENİZ SİZDE SORULAR HAZIRLAYABİLİRSİNİZ 
 
-Oyunun Özellikleri:
+# Oyunun Özellikleri:
 
 Dört Şık: Her soruda dört seçenek bulunmaktadır, bu da oyunculara daha fazla seçenek sunar ve stratejik düşünmelerini sağlar.
 
@@ -22,7 +22,7 @@ Eliye Eli Var: İki seçeneği elemek için bu jokeri kullanabilirsiniz. Bu, do�
 Kişiselleştirilebilirlik: Oyuncular, istedikleri kadar soru ekleyebilir veya değiştirebilir, 
 böylece kendi sorularıyla oyunu oynayabilirler. Bu özellik, oyunun tekrar oynanabilirliğini artırır ve oyuncuların katılımını teşvik eder.
 
-NASIL ÇALIŞIYOR?
+# NASIL ÇALIŞIYOR?
 
 [sorular]:££££
 #1 Soru:
@@ -40,7 +40,7 @@ BU şekide soru.txt şeklinde en fazla 13 ve en az 13 soru tutuyor
 Şekilde 
 
 
-NASIL SORU HAZIRLANIR?
+# NASIL SORU HAZIRLANIR?
 
 
 Bunun İçin Buna Ayrı yazdığım basit bir program var onu kullanarak yada CHATGPT veya GEMİNİ .vb kullanarak Hazırlanabilir.
@@ -48,7 +48,7 @@ Program Linki:
 [Soru+Oluştur.zip](https://github.com/Kadir-Atmaca/KimMilyonerOlmakIster-Oyun/files/15447070/Soru%2BOlustur.zip)
 
 
-Nasıl Oynanır?
+# Nasıl Oynanır?
 
 
 Oyuna Başlama: İlk olarak, "Oyna" düğmesine basın.
