@@ -46,17 +46,7 @@ Program Linki:
 [Soru+Oluştur.zip](https://github.com/Kadir-Atmaca/KimMilyonerOlmakIster-Oyun/files/15447070/Soru%2BOlustur.zip)
 
 
-NASIL OYNANIR?
-öncelikle 
-
-Oyna Tıkla
-![3](https://github.com/Kadir-Atmaca/KimMilyonerOlmakIster-Oyun/assets/152689373/0977dc56-6fd5-4a44-99cf-0b06008fda9d)
-Burda Test seçin KMO olduğu yerde sorular diye klösör olucak eğer soru hazırladıysanız oraya atın ve Yenile diyip seçip Başala Diyin
-![2](https://github.com/Kadir-Atmaca/KimMilyonerOlmakIster-Oyun/assets/152689373/ad74e760-d7b8-4cf7-a052-fee171668ca2)
-Soruyu oku doğru cevapver ve kazan
-
-
-
+Nasıl Oynanır?
 Oyuna Başlama: İlk olarak, "Oyna" düğmesine basın.
 ![1](https://github.com/Kadir-Atmaca/KimMilyonerOlmakIster-Oyun/assets/152689373/91cde366-7ff5-4ac7-91d7-577b66ccbd05) 
 
@@ -65,13 +55,6 @@ Test Seçimi: Şimdi, Karşınıza bir test seçme ekranı gelecektir. "KMO" se�
 
 Soru Okuma ve Cevaplama: Şimdi Burada, soruları okuyun ve doğru cevabı seçin. Jokerlerden yararlanarak, doğru cevabı bulmaya çalışın.
 ![3](https://github.com/Kadir-Atmaca/KimMilyonerOlmakIster-Oyun/assets/152689373/0977dc56-6fd5-4a44-99cf-0b06008fda9d)
-
-
-
-EKRAN GÖRÜNTÜLERİ
-![g](https://github.com/Kadir-Atmaca/KimMilyonerOlmakIster-Oyun/assets/152689373/f82d6b35-f388-47ec-807d-42723d4a8337)
-
-
 
 
 
