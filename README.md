@@ -41,12 +41,16 @@ BU şekide soru.txt şeklinde en fazla 13 ve en az 13 soru tutuyor
 
 
 NASIL SORU HAZIRLANIR?
+
+
 Bunun İçin Buna Ayrı yazdığım basit bir program var onu kullanarak yada CHATGPT veya GEMİNİ .vb kullanarak Hazırlanabilir.
 Program Linki:
 [Soru+Oluştur.zip](https://github.com/Kadir-Atmaca/KimMilyonerOlmakIster-Oyun/files/15447070/Soru%2BOlustur.zip)
 
 
 Nasıl Oynanır?
+
+
 Oyuna Başlama: İlk olarak, "Oyna" düğmesine basın.
 ![1](https://github.com/Kadir-Atmaca/KimMilyonerOlmakIster-Oyun/assets/152689373/91cde366-7ff5-4ac7-91d7-577b66ccbd05) 
 
