@@ -1,0 +1,52 @@
+[sorular]:££££
+#1 Soru:
+Jeolojik haritalar hangi tür bilgileri göstermek için kullanılır?
+£££A) Yer şekillerini £££B) Yer altı kaynaklarını £££C) İklim verilerini £££D) Nüfus dağılımını £££B££££
+
+#2 Soru:
+Bir topoğrafik harita üzerindeki eş yükseklik çizgileri neyi gösterir?
+£££A) Yeraltı madenlerini £££B) Yer şekillerini £££C) Tarım alanlarını £££D) Yeraltı su kaynaklarını £££B££££
+
+#3 Soru:
+Bir nüfus haritası hangi bilgiyi gösterir?
+£££A) Bitki örtüsünü £££B) Yer şekillerini £££C) Bir bölgedeki insan sayısını £££D) Hayvan çeşitliliğini £££C££££
+
+#4 Soru:
+Bir jeolojik harita üzerinde farklı renkler hangi bilgiyi göstermek için kullanılır?
+£££A) Yer şekillerini £££B) İklim verilerini £££C) Yer altı kaynaklarını £££D) Nüfus dağılımını £££C££££
+
+#5 Soru:
+Bir topoğrafik haritada eğim ne şekilde gösterilir?
+£££A) Eğik çizgilerle £££B) Farklı renklerle £££C) Noktalarla £££D) Rakamla £££A££££
+
+#6 Soru:
+Bir nüfus haritasında kullanılan renkler genellikle neyi temsil eder?
+£££A) İklim verilerini £££B) Yer şekillerini £££C) Nüfus yoğunluğunu £££D) Tarım alanlarını £££C££££
+
+#7 Soru:
+Bir jeolojik harita üzerindeki simgeler neyi ifade eder?
+£££A) Nüfus dağılımını £££B) Bitki örtüsünü £££C) Yer altı kaynaklarını £££D) Yer şekillerini £££C££££
+
+#8 Soru:
+Bir topoğrafik harita üzerinde kullanılan eş yükseklik çizgileri arasındaki mesafe arttığında ne olur?
+£££A) Eğim artar £££B) Eğim azalır £££C) Yükseklik artar £££D) Yükseklik azalır £££B££££
+
+#9 Soru:
+Bir nüfus haritasında koyu renkler hangi alanı gösterir?
+£££A) Boş alanları £££B) Tarım alanlarını £££C) Nüfus yoğunluğunun fazla olduğu alanları £££D) Ormanlık alanları £££C££££
+
+#10 Soru:
+Bir jeolojik haritada kullanılan renkler genellikle neyi gösterir?
+£££A) Tarım alanlarını £££B) Yer altı kaynaklarını £££C) Nüfus dağılımını £££D) Bitki örtüsünü £££B££££
+
+#11 Soru:
+Bir topoğrafik haritada deniz seviyesinin altındaki alanlar nasıl gösterilir?
+£££A) Mavi renkle £££B) Yeşil renkle £££C) Kırmızı renkle £££D) Koyu gri renkle £££A£££
+
+#12 Soru:
+Bir nüfus haritası üzerindeki nokta simgeleri neyi ifade eder?
+£££A) Tarım alanlarını £££B) Nüfus merkezlerini £££C) Yer altı kaynaklarını £££D) Dağlık alanları £££B££££
+
+#13 Soru:
+Bir jeolojik harita üzerinde kullanılan çizgiler genellikle neyi gösterir?
+£££A) Yer altı kaynaklarını £££B) Nüfus yoğunluğunu £££C) Yer şekillerini £££D) Bitki örtüsünü £££C££££

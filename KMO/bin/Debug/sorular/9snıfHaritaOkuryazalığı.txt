@@ -1,0 +1,40 @@
+[sorular]:££££
+#1 Soru:
+Harita üzerinde gösterilen yön okları hangi amaçla kullanılır?
+£££A) Yer şekillerini göstermek için £££B) Yönleri belirtmek için £££C) Renk tonlarını belirtmek için £££D) Haritanın ölçeğini göstermek için £££B££££
+
+#2 Soru:
+Bir haritanın ölçeği neyi ifade eder?
+£££A) Haritanın boyutunu £££B) Haritanın renklerini £££C) Haritanın büyüklüğünü £££D) Haritada bir birim uzunluğun gerçek dünyadaki uzunluğunu £££D££££
+
+#3 Soru:
+Bir harita üzerinde yer adlarının yazılmasının amacı nedir?
+£££A) Doğal kaynakları göstermek için £££B) Yer şekillerini göstermek için £££C) Yerlerin isimlerini belirtmek için £££D) Haritanın renklerini belirtmek için £££C££££
+
+#4 Soru:
+Bir haritada ölçek, hangi birimle ifade edilir?
+£££A) Metre £££B) Kilometre £££C) Mil £££D) Cm £££B££££
+
+#5 Soru:
+Bir haritada yer alan enlem ve boylam çizgileri hangi amaçla kullanılır?
+£££A) Yönleri göstermek için £££B) Koordinatları belirtmek için £££C) Renkleri belirtmek için £££D) Yer şekillerini göstermek için £££B££££
+
+#6 Soru:
+Bir harita üzerindeki renkli alanlar genellikle neyi temsil eder?
+£££A) Yükseklik farklarını £££B) Nüfus yoğunluğunu £££C) Bitki örtüsünü £££D) Tarım alanlarını £££C££££
+
+#7 Soru:
+Bir haritada deniz ve okyanusları göstermek için hangi renk kullanılır?
+£££A) Mavi £££B) Yeşil £££C) Sarı £££D) Kahverengi £££A££££
+
+#8 Soru:
+Bir haritada enlem ve boylam çizgileri hangi amaçla kullanılır?
+£££A) İklim bilgilerini göstermek için £££B) Yönleri göstermek için £££C) Koordinatları belirtmek için £££D) Renkleri belirtmek için £££C££££
+
+#9 Soru:
+Bir haritada ölçek 1:50.000 olarak verildiğinde, bu ne anlama gelir?
+£££A) 1 birim harita, 50.000 birim gerçek dünya uzunluğuna karşılık gelir £££B) 50.000 birim harita, 1 birim gerçek dünya uzunluğuna karşılık gelir £££C) 1 birim harita, 50.000 birim gerçek dünya alanına karşılık gelir £££D) 50.000 birim harita, 1 birim gerçek dünya alanına karşılık gelir £££A££££
+
+#10 Soru:
+Bir harita üzerindeki simgelerin kullanım amacı nedir?
+£££A) Yer adlarını belirtmek için £££B) Doğal kaynakları göstermek için £££C) Yer şekillerini göstermek için £££D) Renkleri belirtmek için £££B££££
